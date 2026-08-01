@@ -1,0 +1,6 @@
+# Local project and Codex state
+/.agents/
+/.codex/
+/.init_repo/
+/AGENTS.md
+/CONTEXT.md
