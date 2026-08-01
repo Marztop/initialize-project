@@ -1,0 +1,7 @@
+interface:
+  display_name: "Initialize Project"
+  short_description: "Set up project rules, design, and delivery stages"
+  default_prompt: "Use $initialize-project to initialize this project through an evidence-first interview before changing files."
+
+policy:
+  allow_implicit_invocation: true
